@@ -5,6 +5,7 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Scratchpad.vi" Type="VI" URL="../Scratchpad.vi"/>
-	<Item Name="Test Read.vi" Type="VI" URL="../Test Read.vi"/>
+	<Item Name="Test Lookup by ID.vi" Type="VI" URL="../Test Lookup by ID.vi"/>
+	<Item Name="Test Lookup Column.vi" Type="VI" URL="../Test Lookup Column.vi"/>
 	<Item Name="User.lvclass" Type="LVClass" URL="../User/User.lvclass"/>
 </Library>
