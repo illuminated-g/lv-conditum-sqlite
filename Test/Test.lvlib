@@ -4,9 +4,11 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Item Name="Game.lvclass" Type="LVClass" URL="../Game/Game.lvclass"/>
 	<Item Name="Scratchpad.vi" Type="VI" URL="../Scratchpad.vi"/>
 	<Item Name="Test Lookup by ID.vi" Type="VI" URL="../Test Lookup by ID.vi"/>
 	<Item Name="Test Lookup Column.vi" Type="VI" URL="../Test Lookup Column.vi"/>
+	<Item Name="Test One to Many Relation.vi" Type="VI" URL="../Test One to Many Relation.vi"/>
 	<Item Name="Test Persist Entity.vi" Type="VI" URL="../Test Persist Entity.vi"/>
 	<Item Name="User.lvclass" Type="LVClass" URL="../User/User.lvclass"/>
 </Library>
